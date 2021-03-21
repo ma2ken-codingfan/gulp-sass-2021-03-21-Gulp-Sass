@@ -1,0 +1,21 @@
+body {
+  font-family: san-serif;
+}
+
+h1 {
+  font-size: 36px;
+  color: blue;
+}
+
+h2 {
+  font-size: 24px;
+  color: red;
+}
+
+p {
+  font-size: 16px;
+}
+
+a {
+  text-decoration: none;
+}
